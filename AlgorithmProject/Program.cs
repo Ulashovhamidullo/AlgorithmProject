@@ -352,39 +352,39 @@
 
 
 // if 23 - misol
-int x4, y4;
-int x1 = int.Parse(Console.ReadLine());
-int x2 = int.Parse(Console.ReadLine());
-int x3 = int.Parse(Console.ReadLine());
-int y1 = int.Parse(Console.ReadLine());
-int y2 = int.Parse(Console.ReadLine());
-int y3 = int.Parse(Console.ReadLine());
+//int a, b;
+//int x1 = int.Parse(Console.ReadLine());
+//int x2 = int.Parse(Console.ReadLine());
+//int x3 = int.Parse(Console.ReadLine());
+//int y1 = int.Parse(Console.ReadLine());
+//int y2 = int.Parse(Console.ReadLine());
+//int y3 = int.Parse(Console.ReadLine());
 
-if (x1 == x2)
-{
-    x4 = x3;
-}
-else if (x1 == x3)
-{
-    x4 = x2;
-}
-else if (x2 == x3)
-{
-    x4 = x1;
-} 
-else if (y1 == y2)
-{
-    y4 = y3;
-}
-else if (y1 == y3)
-{
-    y4 = y2;
-} 
-else if (y2 == y3)
-{
-    y4 = y1;
-}
-Console.WriteLine(x4 + y4);
+//if (x1 == x2)
+//{
+//    a = x3;
+//}
+//else if (x1 == x3)
+//{
+//    a = x2;
+//}
+//else if (x2 == x3)
+//{
+//    a = x1;
+//} 
+//else if (y1 == y2)
+//{
+//     b = y3;
+//}
+//else if (y1 == y3)
+//{
+//    b = y2;
+//} 
+//else if (y2 == y3)
+//{
+//    b = y1;
+//}
+//Console.WriteLine("x4 = " + a + "\ny4 = " + b);
 
 // if 24 - misol
 //double x = double.Parse(Console.ReadLine());
@@ -428,7 +428,19 @@ Console.WriteLine(x4 + y4);
 
 
 // if 27 - misol
-
+//int x = int.Parse(Console.ReadLine());
+//if(x < 0)
+//{
+//    Console.WriteLine(0);
+//}
+//else if((x >= 0 && x < 1) || (x >= 2 && x < 3))
+//{
+//    Console.WriteLine(1);
+//}
+//else if((x >= 1 && x < 2) || (x >= 3 && x < 4))
+//{
+//    Console.WriteLine(-1);
+//}
 
 
 
@@ -456,6 +468,23 @@ Console.WriteLine(x4 + y4);
 //else if (a == 0)
 //{
 //    Console.WriteLine( 0);
+//}
+
+
+
+////if 30 - misol
+//float a = float.Parse(Console.ReadLine());
+//if ((a > 9 && a < 100) && (a % 2 == 0))
+//{
+//    Console.WriteLine("ikki xonali juft son");
+//}
+//else if ((a > 99 && a < 1000) && (a % 2 == 1))
+//{
+//    Console.WriteLine("uch xonali toq son");
+//}
+//else
+//{
+//    Console.WriteLine("bu oraliqdagi son emas");
 //}
 
 
