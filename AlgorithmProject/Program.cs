@@ -185,6 +185,11 @@
 //{
 //    Console.WriteLine("tartib raqam= " + a);
 //}
+
+
+
+
+
 // if 15 - moisol
 //int a = int.Parse(Console.ReadLine());
 //int b = int.Parse(Console.ReadLine());
@@ -276,7 +281,6 @@
 
 
 
-
 // if 20 -misol
 //int a = int.Parse(Console.ReadLine());
 //int b = int.Parse(Console.ReadLine());
@@ -298,6 +302,90 @@
 //{
 //    Console.WriteLine("nuqtalar ustma ust tushadi");
 //}
+
+
+
+
+// if 21 - misol
+//int x = int.Parse(Console.ReadLine());
+//int y = int.Parse(Console.ReadLine());
+//if( x == 0 && y == 0)
+//{
+//    Console.WriteLine(0);
+//}
+//else if(y == 0 && x != 0)
+//{
+//    Console.WriteLine(1);
+//}
+//else if( x == 0 && y != 0)
+//{
+//    Console.WriteLine(2);
+//}
+//else if(x != 0 && y != 0)
+//{
+//    Console.WriteLine(3);
+//}
+
+
+
+// if 22 - misol
+//int x = int.Parse(Console.ReadLine());
+//int y = int.Parse(Console.ReadLine());
+//if(x > 0 && y > 0)
+//{
+//    Console.WriteLine("birinchi chorak  ");
+//}
+//else if(x < 0 && y > 0)
+//{
+//    Console.WriteLine("ikkinchi chorak  ");
+//}
+//else if(y < 0 && x < 0)
+//{
+//    Console.WriteLine("uchinchi chorak  ");
+//}
+//else if(y > 0 && x < 0)
+//{
+//    Console.WriteLine("turtinchi chorak  ");
+//}
+
+
+
+
+// if 23 - misol
+int x4, y4;
+int x1 = int.Parse(Console.ReadLine());
+int x2 = int.Parse(Console.ReadLine());
+int x3 = int.Parse(Console.ReadLine());
+int y1 = int.Parse(Console.ReadLine());
+int y2 = int.Parse(Console.ReadLine());
+int y3 = int.Parse(Console.ReadLine());
+
+if (x1 == x2)
+{
+    x4 = x3;
+}
+else if (x1 == x3)
+{
+    x4 = x2;
+}
+else if (x2 == x3)
+{
+    x4 = x1;
+} 
+else if (y1 == y2)
+{
+    y4 = y3;
+}
+else if (y1 == y3)
+{
+    y4 = y2;
+} 
+else if (y2 == y3)
+{
+    y4 = y1;
+}
+Console.WriteLine(x4 + y4);
+
 // if 24 - misol
 //double x = double.Parse(Console.ReadLine());
 //if(x > 0)
@@ -339,13 +427,8 @@
 //}
 
 
+// if 27 - misol
 
-// if 26 - misol
-//double x = double.Parse(Console.ReadLine());
-//if(x < 0)
-//{
-//    Console.WriteLine("f(x) = " + 0);
-//}
 
 
 
