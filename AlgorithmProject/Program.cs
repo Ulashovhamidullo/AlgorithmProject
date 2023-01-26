@@ -185,7 +185,94 @@
 //{
 //    Console.WriteLine("tartib raqam= " + a);
 //}
+// if 15 - moisol
+//int a = int.Parse(Console.ReadLine());
+//int b = int.Parse(Console.ReadLine());
+//int c = int.Parse(Console.ReadLine());
+//if ((a > b) && (b >c))
+//{
+//    Console.WriteLine("yig'indi katta = " + (a + b));
+//}
+//else if((a < b) && (a < c))
+//{
+//    Console.WriteLine( "yig'indi katta = " + (b + c));
+//}
+//else if((b < c) && (b < a))
+//{
+//    Console.WriteLine("yig'indi katta = " + (a + c));
+//}
 
+
+
+// if 16 - misol
+//int A = int.Parse(Console.ReadLine());
+//int B = int.Parse(Console.ReadLine());
+//int C = int.Parse(Console.ReadLine());
+//if (A > B && B > C)
+//{
+//    Console.WriteLine(C);
+
+//}
+
+
+// IF 17- MISOL 
+//int a = int.Parse(Console.ReadLine());
+//int b = int.Parse(Console.ReadLine());
+//int c = int.Parse(Console.ReadLine());
+//if((a == b) && (a != c))
+//{
+//    Console.WriteLine(" uchinchi =  " + c );
+//}
+//else if((a == c) && (a != b))
+//{
+//    Console.WriteLine(" ikkinchi = " + b);
+//}
+//else if((a != b) && (b == c))
+//        {
+//    Console.WriteLine(" birinchi = " + a);
+//}
+
+
+// if 18 - misol
+//int a = int.Parse(Console.ReadLine());
+//int b = int.Parse(Console.ReadLine());
+//int c = int.Parse(Console.ReadLine());
+//if((a == b) && (a != c))
+//{
+//    Console.WriteLine(" uchinchi =  " + c );
+//}
+//else if((a == c) && (a != b))
+//{
+//    Console.WriteLine(" ikkinchi = " + b);
+//}
+//else if((a != b) && (b == c))
+//        {
+//    Console.WriteLine(" birinchi = " + a);
+//}
+
+
+
+// if 19 - misol
+//int a = int.Parse(Console.ReadLine());
+//int b = int.Parse(Console.ReadLine());
+//int c = int.Parse(Console.ReadLine());
+//int d = int.Parse(Console.ReadLine());
+//if((a == b) && (b == c) && (c != d))
+//{
+//    Console.WriteLine(" to'rtinchi = " + d);
+//}
+//else if((a == b) && (b == d) && (d != c))
+//{
+//    Console.WriteLine("uchinchi = " + c);
+//}
+//else if((a == c) && (c == d) && (d != b))
+//{
+//    Console.WriteLine("ikkinchi = " + b);
+//}
+//else if((a != b) && (b == c) && (c == d))
+//{
+//    Console.WriteLine("birinchi = " + a);
+//} 
 
 
 
